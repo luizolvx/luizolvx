@@ -40,19 +40,19 @@ Busco uma oportunidade de estágio ou jovem aprendiz na área de tecnologia, ond
 
 ### Projetos Pessoais em Destaque
 
-#### 1. Gerenciador de Contatos em C
+#### 1. [Gerenciador de Contatos em C](https://github.com/luizolvx/projeto-final-lista-de-contatos)
 - **Descrição:** Sistema de gerenciamento de contatos focado em eficiência e persistência de dados. Utiliza listas encadeadas dinâmicas e armazenamento em arquivo binário para garantir a segurança e a integridade das informações.
 - **Tecnologias:** `C`, `Estruturas de Dados`, `Alocação Dinâmica de Memória`.
 
-#### 2. Loja Roupa App (Java Desktop)
+#### 2. [Loja Roupa App (Java Desktop)](https://github.com/luizolvx/projeto-loja-de-roupas-java)
 - **Descrição:** Aplicação desktop para gerenciamento completo de uma loja de roupas. O projeto aplica conceitos de Programação Orientada a Objetos (POO), utiliza a biblioteca Swing para a interface gráfica e MySQL para o banco de dados.
 - **Tecnologias:** `Java`, `Swing`, `MySQL`, `JDBC`, `POO`.
 
-#### 3. Gerenciador de Ordem de Serviço (PHP)
+#### 3. [Gerenciador de Ordem de Serviço (PHP)](https://github.com/luizolvx/sistemas-chamados-php)
 - **Descrição:** Sistema web para gerenciamento de chamados e ordens de serviço. Construído com a arquitetura MVC (Model-View-Controller), demonstra experiência em desenvolvimento back-end e boas práticas de segurança (PDO Prepared Statements).
 - **Tecnologias:** `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`.
 
-#### 4. Explore Brasil (Site de Turismo)
+#### 4. [Explore Brasil (Site de Turismo)](https://github.com/luizolvx/site-de-turismo)
 - **Descrição:** Site de turismo com foco em destinos brasileiros. O projeto evidencia minha experiência em desenvolvimento front-end, criação de interfaces responsivas e interativas com validação de formulários e efeitos visuais.
 - **Tecnologias:** `HTML5`, `CSS3`, `JavaScript`, `Layout Responsivo`.
 
