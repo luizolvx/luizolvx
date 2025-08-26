@@ -61,7 +61,7 @@ Busco uma oportunidade de estágio ou jovem aprendiz na área de tecnologia, ond
 ### Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-DO-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/luiz-ot%C3%A1vio-oliveira-400851310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/luizolvx">
