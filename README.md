@@ -56,6 +56,10 @@ Busco uma oportunidade de estágio ou jovem aprendiz na área de tecnologia, ond
 - **Descrição:** Site de turismo com foco em destinos brasileiros. O projeto evidencia minha experiência em desenvolvimento front-end, criação de interfaces responsivas e interativas com validação de formulários e efeitos visuais.
 - **Tecnologias:** `HTML5`, `CSS3`, `JavaScript`, `Layout Responsivo`.
 
+#### 5. [O Mundo do Rap dos Anos 90 (React Native)](o-mundo-do-rap-)
+- **Descrição:** Aplicativo mobile focado na cultura do rap dos anos 90. O projeto exibe uma galeria interativa e informações sobre artistas e álbuns icônicos, demonstrando experiência em desenvolvimento de UI/UX mobile e navegação por abas.
+- **Tecnologias:** `React Native`, `Expo`, `JavaScript`.
+
 ---
 
 ### Contatos
